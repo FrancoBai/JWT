@@ -27,7 +27,7 @@ public class User {
 
 	// NotBlank !=""
 	@NotBlank
-	@Size(max = 120)
+	@Size(max = 150)
 	private String password;
 
 	// added 210301
